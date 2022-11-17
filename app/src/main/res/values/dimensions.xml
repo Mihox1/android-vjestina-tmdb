@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen
+        name="favorite_button_size"
+        >20.0dp</dimen>
+    <dimen
+        name="corner_radius"
+        >10.0dp</dimen>
+    <dimen
+        name="elevation"
+        >10.0dp</dimen>
+    <dimen
+        name="spacer_size"
+        >5.0dp</dimen>
+    <dimen
+        name="divider_thickness"
+        >3.0dp</dimen>
+</resources>
